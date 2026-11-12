@@ -1,0 +1,8 @@
+SuVaZu Desktop - prueba 0.1
+
+1. Archivos para publicar COMO UN SITIO NUEVO en GitHub Pages bajo HTTPS; no sustituir las apps existentes.
+2. Luego abrir la URL publicada en Chrome > instalar aplicación.
+3. Deslizar horizontalmente entre 3 ruedas. Se usan los enlaces originales SuVaZu y los chats JSON.
+4. Abrir apps Android desde una PWA no está garantizado. Las pruebas de lanzamiento intent:// pueden abrir Play Store o no hacer nada, según cada dispositivo y la app destino. Los accesos DiDi/Rappi/Uber/inDrive/WhatsApp/Calculadora/Billetera requieren pruebas en el teléfono.
+5. Las direcciones web pueden cambiarse en el engrane. La configuración se almacena solo en ese navegador/dispositivo.
+6. No se ha publicado ni actualizado ningún repositorio, no se han modificado apps SuVaZu ni se han alterado datos.
